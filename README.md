@@ -1,5 +1,3 @@
-Domino Stones Game Program 
-
+Domino Stones Game Program
 Used Csharp
-
 Wrote for Chili
